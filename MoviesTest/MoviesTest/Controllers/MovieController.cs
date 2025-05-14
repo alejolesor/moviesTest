@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Movies.Application.UseCases.Movies;
+using Movies.Applications.UseCases.Movies;
 using Movies.Infraestructure;
 using System;
 

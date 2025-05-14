@@ -1,12 +1,11 @@
-﻿using Movies.Application.UseCases.Movies;
-using Movies.Core.Repository;
+﻿using Movies.Core.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Movies.Application.UseCases.Movies
+namespace Movies.Applications.UseCases.Movies
 {
     public class MovieUseCase : IMovieUseCase
     {

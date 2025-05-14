@@ -1,8 +1,8 @@
 using Movies.Infraestructure;
 using Microsoft.EntityFrameworkCore;
-using Movies.Application.UseCases.Movies;
 using Movies.Core.Repository;
 using Movies.Infraestructure.Repository;
+using Movies.Applications.UseCases.Movies;
 
 var builder = WebApplication.CreateBuilder(args);
 

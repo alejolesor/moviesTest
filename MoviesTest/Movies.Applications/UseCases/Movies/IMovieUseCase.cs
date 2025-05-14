@@ -1,5 +1,4 @@
-﻿
-namespace Movies.Application.UseCases.Movies
+﻿namespace Movies.Applications.UseCases.Movies
 {
     public interface IMovieUseCase
     {
